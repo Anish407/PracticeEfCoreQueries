@@ -5,7 +5,7 @@ I asked Chat GPT to give me some queries to practice with and then I tried to im
 then I compare the results with the expected results from ChatGPT.
 
 ## Database Schema
-![LibraryManagement Schema](./images/dbschema.png)
+![LibraryManagement Schema](./LearnEfCore.ConsoleApp/Images/dbschema.png)
 
 ### Prerequisites
 - .NET 8.0 SDK or later
